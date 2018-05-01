@@ -3,11 +3,11 @@
 
 [PostCSS] plugin for writing Azerbaijan Style Sheets.
 
-Inspired from [PostCSS-Russian-Stylesheets](https://github.com/Semigradsky/postcss-russian-stylesheets).
+Inspired by [PostCSS-Russian-Stylesheets](https://github.com/Semigradsky/postcss-russian-stylesheets).
 
 [PostCSS]: https://github.com/postcss/postcss
-[ci-img]:  https://travis-ci.org/Semigradsky/postcss-russian-stylesheets.svg
-[ci]:      https://travis-ci.org/Semigradsky/postcss-russian-stylesheets
+[ci-img]:  https://travis-ci.org/ashurbeyli/postcss-azerbaijani-stylesheets.svg
+[ci]:      https://travis-ci.org/ashurbeyli/postcss-azerbaijani-stylesheets
 
 ## Input
 ```css
