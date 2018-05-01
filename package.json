@@ -1,0 +1,15 @@
+{
+  "name": "postcss-azerbaijani-stylesheets",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeyhun Ashurbayov",
+  "license": "ISC",
+  "dependencies": {
+    "postcss": "^6.0.21"
+  },
+  "devDependencies": {}
+}
